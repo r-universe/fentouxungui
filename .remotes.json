@@ -1,7 +1,7 @@
 [
   {
-    "package": "ComplexHeatmap",
-    "url": "https://github.com/jokergoo/ComplexHeatmap",
+    "package": "presto",
+    "url": "https://github.com/immunogenomics/presto",
     "via": ["SeuratExplorer"],
     "from": "SeuratExplorer"
   }
