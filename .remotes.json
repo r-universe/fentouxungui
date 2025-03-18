@@ -1,0 +1,8 @@
+[
+  {
+    "package": "ComplexHeatmap",
+    "url": "https://github.com/jokergoo/ComplexHeatmap",
+    "via": ["SeuratExplorer"],
+    "from": "SeuratExplorer"
+  }
+]
