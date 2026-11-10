@@ -1,8 +1,0 @@
-[
-  {
-    "package": "presto",
-    "url": "https://github.com/immunogenomics/presto",
-    "via": ["SeuratExplorer"],
-    "from": "SeuratExplorer"
-  }
-]

@@ -5,7 +5,3 @@
 [submodule "SeuratExplorer"]
 	path = SeuratExplorer
 	url = https://github.com/fentouxungui/seuratexplorer
-[submodule "presto"]
-	path = presto
-	url = https://github.com/immunogenomics/presto
-	registered = false
